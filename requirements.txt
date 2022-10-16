@@ -2,5 +2,4 @@ es-core-news-lg @ https://github.com/explosion/spacy-models/releases/download/es
 fastapi==0.85.1
 pydantic==1.9.1
 spacy==3.4.1
-spacy-legacy==3.0.9
-spacy-loggers==1.0.3
+uvicorn==0.18.3
